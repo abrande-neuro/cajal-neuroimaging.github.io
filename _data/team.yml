@@ -55,9 +55,14 @@ members:
   - name: Adriana Brande
     type: intern
     years: '2025'
-    role: BSc Psychology
+    photo: 
+    role: BSc Psychology 
     funding: JAE Intro fellowship (CSIC)
-    affiliation: Universidad Complutense de Madrid (UCM)
+    affiliation: Universidad Complutense de Madrid (UCM) 
+    linkedin: https://www.linkedin.com/in/adriana-gabriela-brande-s%C3%A1nchez-7809ab332/
+    orcid: https://orcid.org/0009-0001-1465-8159
+    github: https://github.com/abrande-neuro
+    now: MSc Cognitive Neuroscience and Neuropsychology (URJC). Research Intern at the Center for Cognitive and Computational Neuroscience (C3N-UCM)
   - name: Irem Koçak
     type: intl
     years: '2026'
